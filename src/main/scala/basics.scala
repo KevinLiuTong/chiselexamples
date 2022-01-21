@@ -1,7 +1,7 @@
 package chiselexamples
 
 import chisel3._
-import chsiel3.util._
+import chisel3.util._
 
 class MyModule extends RawModule{
 
